@@ -1,0 +1,13 @@
+a.menuitem {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18pt;
+    color: red;
+    transition: 0.5s;   
+    margin: 0 20px;
+}
+
+a.menuitem:hover {
+    color: blue;
+    transform: scale(1.3);
+}

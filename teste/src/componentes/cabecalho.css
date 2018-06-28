@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1{
+    font-family: sans-serif;
+    color: red;
+}
+
+header {
+    background-color: lightgray;
+    text-align: center;
+}
